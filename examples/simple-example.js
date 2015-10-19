@@ -1,4 +1,4 @@
-var SkautIS = require('./SkautIS.js');
+var SkautIS = require('./../lib/index');
 
 var skautIS = new SkautIS("2188738e-d0f1-4f66-9a81-5c5f0dade8ad", true, false);
 var ID_Person = null;
