@@ -1,6 +1,6 @@
 {
   "name": "node-skautis",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Knihovna pro napojeni na SOAP sluzby SkautISu",
   "main": "./lib",
   "directories": {
